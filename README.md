@@ -1,6 +1,6 @@
 ### Hi! I'm Sergie👋
 
-I'm a 20 years old, systems engineering stendt. I've been studying this career for 3 years now, I've learned several programing languages.
+I'm a 20 years old, systems engineering stendt. I've been studying this career for 3 years now, I've learned several programing languages.<br>
 *Java <br>
 *Python <br>
 *JavaScript <br>
