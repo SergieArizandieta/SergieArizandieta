@@ -5,6 +5,7 @@ I'm a 20 years old, systems engineering stendt. I've been studying this career f
 *Python <br>
 *JavaScript <br>
 *TypeScript <br>
+*Arduino <br>
 *Microsoft Macro Assembler (MASM)  <br>
 
 Rigth now im focus to be a freelancer developer to be able to provide solutions to companians that need it and for my own develov. I'm passopnate, and very commited persosn thath love to seek for news solutions.
