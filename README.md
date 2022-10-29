@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! I'm Sergie👋
 
-<!--
-**Serch-ING/Serch-ING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20 years old, systems engineering stendt. I've been studying this career for 3 years now, I've learned several programing languages.
+*Java <br>
+*Python <br>
+*JavaScript <br>
+*TypeScript <br>
+*Assembly MASM   <br>
 
-Here are some ideas to get you started:
+Rigth now im focus to be a freelancer developer to be able to provide solutions to companians that need it and for my own develov. I'm passopnate, and very commited persosn thath love to seek for news solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serch-ING)](https://github.com/anuraghazra/github-readme-stats&theme=radical)</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serch-ING&show_icons=true&theme=radical)</br>
