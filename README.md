@@ -4,7 +4,7 @@
 
 - 🌱 I'm a 20 years old, systems engineering stendt. I've been studying this career for 3 years now, I've learned several programing languages.<br>
 
--  Ask me about TypeScript, JavaScript, Python
+
 
 
 ### 🛠 &nbsp;Tech Stack
