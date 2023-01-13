@@ -4,6 +4,8 @@
 
 - 🌱 I'm a 20 years old, systems engineering stendt. I've been studying this career for 3 years now, I've learned several programing languages.<br>
 
+-  Ask me about TypeScript, JavaScript, Python
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,7 +40,11 @@
   </a>
 
   <a href="https://twitter.com/SerchiBoi">
-    <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="Sergie Arizandieta's Hashnode Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Sergie Arizandieta's Hashnode Profile" height="30" width="30">
+  </a>
+
+   <a href="https://www.twitch.tv/serchiboi/about">
+    <img src="https://www.vectorlogo.zone/logos/twitch/twitch-tile.svg" alt="Sergie Arizandieta's Hashnode Profile" height="30" width="30">
   </a>
   
 </p>
