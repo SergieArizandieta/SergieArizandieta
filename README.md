@@ -22,11 +22,21 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/alexsan-dev">
+<a href="https://github.com/Serch-ING">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Serch-ING&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Serch-ING&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
 </p>
+<div align="center">
+
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Serch-ING&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+&nbsp;
+
+
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -51,7 +61,9 @@
     <img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" alt="Sergie Arizandieta's Hashnode Profile" height="30" width="30">
   </a>
 
-  
+  </div>
+
+
   
 </p>
 
