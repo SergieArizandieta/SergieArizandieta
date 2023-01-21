@@ -22,9 +22,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Serch-ING">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Serch-ING&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Serch-ING&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/SergieArizandieta">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SergieArizandieta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SergieArizandieta&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
 </p>
@@ -32,7 +32,7 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Serch-ING&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SergieArizandieta&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 &nbsp;
 
 
