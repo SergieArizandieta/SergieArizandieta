@@ -57,7 +57,7 @@
     <img src="https://www.vectorlogo.zone/logos/twitch/twitch-tile.svg" alt="Sergie Arizandieta's Hashnode Profile" height="30" width="30">
   </a>
 
-  <a href="https://www.paypal.com/paypalme/SerchiBoi?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000269&utm_unptid=a06e4c7a-92f8-11ed-ab13-3cecef6afbb5&ppid=RT000269&cnac=GT&rsta=es_XC%28es-GT%29&cust=BQJV6YK4WPHJQ&unptid=a06e4c7a-92f8-11ed-ab13-3cecef6afbb5&calc=f2376439386ed&unp_tpcid=ppme-social-user-profile-created&page=main%3Aemail%3ART000269&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.136.0&xt=104038%2C127632">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=FEPY38AFV44Q8">
     <img src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" alt="Sergie Arizandieta's Hashnode Profile" height="30" width="30">
   </a>
 
