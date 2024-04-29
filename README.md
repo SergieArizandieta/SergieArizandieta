@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I'm a 21 years old, systems engineering stendt. I've been studying this career for 4 years now, I've learned several programing languages.<br>
+- 🌱 I'm a 21 years old, systems engineering stendt. I've been studying this career for 5 years now, I've learned several programing languages.<br>
 
 
 
