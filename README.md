@@ -2,7 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🌱 I'm a 21 years old, systems engineering stendt. I've been studying this career for 5 years now, I've learned several programing languages.<br>
+- 🌱 I'm a 22 years old, bachelor's Candidate in Engineering in Sciences and Systems at the University of San Carlos of Guatemala, I have honed a diverse skill set through both academic and practical experiences. I am passionate about technology and programming, with a particular interest in cloud computing and software development.
+.<br>
 
 
 
